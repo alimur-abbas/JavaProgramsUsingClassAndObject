@@ -3,7 +3,7 @@
 import java.util.*;
 class Stack
 {
-	static java.util.Scanner sc= new Scanner(System.in);
+	Scanner sc= new Scanner(System.in);
 	static int top=-1;
 	static int arr[]=new int[50];
 	static void push()
